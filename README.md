@@ -13,7 +13,7 @@ This Python script utilizes the `fpdf` library to generate PDF invoices from Exc
 1. Place your Excel invoice files (with a `.xlsx` extension) in the "invoices" directory.
 2. Run the script using:
     ```bash
-    python script_name.py
+    python main.py
     ```
 3. The script will convert each Excel invoice into a corresponding PDF and save it in the "pdfs" directory.
 
